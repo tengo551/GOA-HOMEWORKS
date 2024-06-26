@@ -1,0 +1,1 @@
+favorite_food=input("type in you favorite food")
