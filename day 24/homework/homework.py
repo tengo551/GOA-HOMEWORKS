@@ -4,6 +4,6 @@ name2=input("enter your name:")
 
 
 while   name1 != name2:
-    print(True)
+    name1=input("tengo lomia repeat name")
 else: 
     print(False)
